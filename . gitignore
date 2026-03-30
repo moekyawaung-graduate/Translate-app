@@ -1,0 +1,21 @@
+# Environment
+.env
+backend/.env
+backend/google-service-account.json
+
+# Node
+node_modules/
+
+# Flutter
+flutter/.dart_tool/
+flutter/build/
+flutter/.flutter-plugins
+flutter/.flutter-plugins-dependencies
+
+# React Native
+react-native/node_modules/
+react-native/android/.gradle/
+react-native/ios/Pods/
+
+# macOS
+.DS_Store
